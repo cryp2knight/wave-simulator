@@ -3,4 +3,4 @@ A simple application that simulates a wave with respect to a given parameters. #
 
 ![scrennshot](/wave-simulator/Screenshot from 2019-12-15 07-46-16.png)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/s1.png)
